@@ -1,0 +1,50 @@
+{
+    "pizza": {
+        "Vulcano": {
+            "review": "\u2605\u2605\u2605\u2605\u2605",
+            "address": "Via Giacomo Matteotti 37",
+            "phone": "+39 02 618 1900",
+            "city": "Cinisello Balsamo",
+            "delivery": "Si"
+        },
+        "Il Volo": {
+            "review": "\u2605\u2605\u2605\u2605",
+            "address": "Via per Bresso, 236",
+            "phone": "+39 02 3956 1164",
+            "city": "Cinisello Balsamo",
+            "delivery": "No"
+        }
+    },
+    "sushi": {
+        "Nima": {
+            "review": "\u2605\u2605\u2605\u2605\u2605",
+            "address": "",
+            "phone": "",
+            "city": "Nova Milanese",
+            "delivery": "No"
+        },
+        "Sushi Salmone": {
+            "review": "\u2605\u2605\u2605\u2605",
+            "address": "",
+            "phone": "",
+            "city": "Cinisello Balsamo",
+            "delivery": "Si"
+        },
+        "Trabucco": {
+            "review": "\u2605\u2605\u2605\u2605\u2605",
+            "address": "",
+            "phone": "",
+            "city": "Desio",
+            "delivery": "No"
+        }
+    },
+    "hamburger": {
+        "Mc": {
+            "review": "\u2605\u2605\u2605\u2605",
+            "address": "Viale Fulvio Testi 132",
+            "phone": "",
+            "city": "Cinisello Balsamo",
+            "delivery": "Si"
+        }
+    }
+}
